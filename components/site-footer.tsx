@@ -55,7 +55,7 @@ export function SiteFooter() {
             className="flex items-center gap-2 text-muted-foreground transition-colors hover:text-swn-pink"
           >
             <Camera className="h-4 w-4" />
-            @swn.crew
+            @swndesign
           </a>
         </div>
       </div>
